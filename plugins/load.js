@@ -1,4 +1,4 @@
-const fs = require('fs'), path = require('path');
+﻿const fs = require('fs'), path = require('path');
 const { info, error, colors } = require('../console-log');
 
 function loadPlugin(pluginPath, relativePath, client) {
