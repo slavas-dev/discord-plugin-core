@@ -64,7 +64,6 @@ src/
 
 - 🌐 **Website**: https://slavas.dev
 - 💬 **Discord Server**: https://discord.gg/HjWKegk6tc
-- 📱 **Telegram**: https://t.me/slavasfullstackdeveloper
 - 🔧 **GitHub**: https://github.com/slavas-dev
 
 ## Author
